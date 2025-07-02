@@ -4,8 +4,8 @@ import { sidebar } from './sidebar.js'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "NekoForces",
-  description: "An AI-driven competitive programming solution blog.",
-  base: '/nekodeforces/', // <-- Important for GitHub Pages deployment
+  description: "An AI-driven competitive programming solution collector.",
+  base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
