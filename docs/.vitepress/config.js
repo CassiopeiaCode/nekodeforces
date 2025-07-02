@@ -1,9 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { sidebar } from './sidebar.js'
 
-import { defineConfig } from 'vitepress'
-import { sidebar } from './sidebar.js'
-
 const solutionPathSegment = '/docs/Solution/';
 
 // https://vitepress.dev/reference/site-config
