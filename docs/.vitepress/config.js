@@ -8,6 +8,20 @@ export default defineConfig({
   title: "NekoForces",
   description: "An AI-driven competitive programming solution collector.",
   base: '/',
+  head: [
+    [
+      'script',
+      {},
+      `
+      document.addEventListener('error', (e) => {
+        const target = e.target;
+        if (target && target.tagName === 'IMG') {
+          target.style.display = 'none';
+        }
+      }, true);
+      `
+    ]
+  ],
   vite: {
     plugins: [
       {
