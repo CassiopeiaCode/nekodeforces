@@ -47,6 +47,14 @@ export const sidebar = [
         "link": "/Solution/2104A.md"
       },
       {
+        "text": "Problem 2094D",
+        "link": "/Solution/2094D.md"
+      },
+      {
+        "text": "Problem 2092A",
+        "link": "/Solution/2092A.md"
+      },
+      {
         "text": "Problem 2063A",
         "link": "/Solution/2063A.md"
       },
@@ -89,6 +97,10 @@ export const sidebar = [
       {
         "text": "Problem 1872D",
         "link": "/Solution/1872D.md"
+      },
+      {
+        "text": "Problem 1857F",
+        "link": "/Solution/1857F.md"
       },
       {
         "text": "Problem 1797B",
@@ -147,12 +159,24 @@ export const sidebar = [
         "link": "/Solution/1367F2.md"
       },
       {
+        "text": "Problem 1360D",
+        "link": "/Solution/1360D.md"
+      },
+      {
         "text": "Problem 1283B",
         "link": "/Solution/1283B.md"
       },
       {
         "text": "Problem 1097B",
         "link": "/Solution/1097B.md"
+      },
+      {
+        "text": "Problem 1030A",
+        "link": "/Solution/1030A.md"
+      },
+      {
+        "text": "Problem 1015E2",
+        "link": "/Solution/1015E2.md"
       },
       {
         "text": "Problem 913A",
@@ -191,8 +215,20 @@ export const sidebar = [
         "link": "/Solution/466C.md"
       },
       {
+        "text": "Problem 343C",
+        "link": "/Solution/343C.md"
+      },
+      {
         "text": "Problem 268B",
         "link": "/Solution/268B.md"
+      },
+      {
+        "text": "Problem 263A",
+        "link": "/Solution/263A.md"
+      },
+      {
+        "text": "Problem 231A",
+        "link": "/Solution/231A.md"
       },
       {
         "text": "Problem 219A",
@@ -213,6 +249,10 @@ export const sidebar = [
       {
         "text": "Problem 71A",
         "link": "/Solution/71A.md"
+      },
+      {
+        "text": "Problem 69A",
+        "link": "/Solution/69A.md"
       },
       {
         "text": "Problem 26A",
