@@ -1,66 +1,51 @@
-# CF 自动解题与题解发布 - 前端
+# NekoForces ✨
 
-本项目是 "AI驱动的Codeforces自动解题与题解发布系统" 的前端部分。它使用 [VitePress](https://vitepress.dev/) 构建，用于展示由AI自动生成的Codeforces题目题解。
+喵~ 欢迎来到这个小小的角落！(ฅ^•ﻌ•^ฅ)
 
-## 项目结构
+这里存放着一些关于 Codeforces 的奇思妙想和解题小秘密。每一份题解都由一个非常努力的小助手自动生成，希望能给你带来一点点启发和乐趣！
 
-- `docs/`: 存放所有 VitePress 的配置和 Markdown 内容。
-  - `Solution/`: 存放所有自动生成的题解 Markdown 文件。
-- `package.json`: 定义项目依赖和脚本。
-- `vercel.json`: Vercel 部署配置文件。
+## 这里有什么？🐾
 
-## 环境准备
+*   **独特的视角**: 每一篇题解都用一种轻松、俏皮的方式写成，让复杂的算法问题变得像是在解一个有趣的小谜题。
+*   **全自动更新**: 有一个勤劳的身影在幕后悄悄地寻找新题目，思考解法，并在成功解出后，把过程和代码整整齐齐地放在这里。完全不需要人工干预哦！
+*   **AI 的魔法**: 整个过程的核心是强大的 AI，它负责理解问题、生成代码，甚至撰写解说。是不是很神奇？
 
-在开始之前，请确保你的开发环境中安装了 [Node.js](https://nodejs.org/) (推荐 v18 或更高版本)。
+## 它是如何工作的？⚙️
 
-## 安装
+这个小站背后有一个完整的自动化流程：
 
-1.  进入 `frontend` 目录：
-    ```bash
-    cd frontend
-    ```
+1.  **发现问题**: 自动去 Codeforces 上寻找一个刚刚被解决的有趣问题。
+2.  **AI 思考**: 把问题交给一个非常聪明的 AI 大脑去想办法。
+3.  **尝试提交**: AI 写出代码后，会自动登录并提交上去，看看能不能通过。
+4.  **记录成果**: 如果代码被 "Accepted" 了，它就会把这份正确的代码，连同题目一起，变成一篇漂亮的题解。
+5.  **发布到这里**: 最后，新的题解会自动出现在这个网站上！
 
-2.  安装项目依赖：
-    ```bash
-    npm install
-    ```
-    或者使用 `pnpm` 或 `yarn`:
-    ```bash
-    # pnpm
-    pnpm install
+## 本地运行 🚀
 
-    # yarn
-    yarn install
-    ```
+想在自己的电脑上看看这个小站是怎么搭起来的吗？
 
-## 本地开发
+首先，确保你安装了 [Node.js](https://nodejs.org/) (v18+)。
 
-要启动本地开发服务器并实时预览网站内容，请运行以下命令：
+然后，在你的终端里敲下面的命令哦：
 
 ```bash
+# 1. 克隆这个仓库
+git clone https://github.com/CassiopeiaCode/nekodeforces.git
+
+# 2. 进入项目目录
+cd nekodeforces
+
+# 3. 安装依赖
+npm install
+
+# 4. 启动！
 npm run docs:dev
 ```
 
-服务启动后，你可以在浏览器中访问 `http://localhost:5173` 查看效果。
+现在，在浏览器里打开 `http://localhost:5173` 就可以看到啦！
 
-## 构建
+## 部署 🌐
 
-要将题解网站构建为静态文件，以便部署，请运行：
+这个小站可以轻松部署在 [Vercel](https://vercel.com/) 或 [GitHub Pages](https://pages.github.com/) 上。
 
-```bash
-npm run docs:build
-```
-
-构建产物将默认生成在 `docs/.vitepress/dist` 目录下。
-
-## 预览构建产物
-
-如果你想在本地预览构建后的网站，可以运行：
-
-```bash
-npm run docs:preview
-```
-
-## 部署
-
-本项目已配置为通过 Vercel 进行自动部署。当代码推送到关联的 Git 仓库时，Vercel 会自动拉取代码、执行构建命令 (`npm run docs:build`) 并将生成的静态网站部署到线上。
+每当有新的题解生成并推送到 `main` 分支时，CI/CD 流程（例如 Vercel 的自动部署或 GitHub Actions）就会自动构建和发布最新的网站内容。
