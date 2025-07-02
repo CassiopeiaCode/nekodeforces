@@ -6,14 +6,12 @@ export default defineConfig({
   title: "NekoForces",
   description: "An AI-driven competitive programming solution collector.",
   base: '/',
-  markdown: {
-    // By changing the default Vue template delimiters, we prevent VitePress
-    // from misinterpreting text like `{{1, 2}}` as a Vue expression.
-    vue: {
-      template: {
-        compilerOptions: {
-          delimiters: ['((%', '%))']
-        }
+  vue: {
+    template: {
+      compilerOptions: {
+        // By changing the default Vue template delimiters, we prevent VitePress
+        // from misinterpreting text like `{{1, 2}}` as a Vue expression.
+        delimiters: ['((%', '%))']
       }
     }
   },
