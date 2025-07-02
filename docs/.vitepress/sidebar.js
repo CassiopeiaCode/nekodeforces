@@ -123,6 +123,10 @@ export const sidebar = [
         "link": "/Solution/1726B.md"
       },
       {
+        "text": "Problem 1703G",
+        "link": "/Solution/1703G.md"
+      },
+      {
         "text": "Problem 1676A",
         "link": "/Solution/1676A.md"
       },
@@ -137,6 +141,10 @@ export const sidebar = [
       {
         "text": "Problem 1650A",
         "link": "/Solution/1650A.md"
+      },
+      {
+        "text": "Problem 1559A",
+        "link": "/Solution/1559A.md"
       },
       {
         "text": "Problem 1472B",
