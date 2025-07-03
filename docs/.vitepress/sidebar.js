@@ -507,6 +507,10 @@ export const sidebar = [
         "link": "/Solution/1458A.md"
       },
       {
+        "text": "Problem 1419D1",
+        "link": "/Solution/1419D1.md"
+      },
+      {
         "text": "Problem 1418A",
         "link": "/Solution/1418A.md"
       },
@@ -909,6 +913,10 @@ export const sidebar = [
       {
         "text": "Problem 43A",
         "link": "/Solution/43A.md"
+      },
+      {
+        "text": "Problem 39D",
+        "link": "/Solution/39D.md"
       },
       {
         "text": "Problem 29C",
