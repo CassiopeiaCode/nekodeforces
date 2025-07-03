@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { sidebar } from './sidebar.js'
+import { katex } from '@mdit/plugin-katex'
 
 const solutionPathSegment = '/docs/Solution/';
 
@@ -8,7 +9,11 @@ export default defineConfig({
   title: "NekoForces",
   description: "An AI-driven competitive programming solution collector.",
   base: '/',
-  head: [ 
+  head: [
+    [
+      'link',
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css' }
+    ],
     [
       'script',
       {},
@@ -27,6 +32,11 @@ export default defineConfig({
       `(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "s8pfa0uv88");`
     ]
   ],
+  markdown: {
+    config: (md) => {
+      md.use(katex)
+    }
+  },
   vite: {
     plugins: [
       {
