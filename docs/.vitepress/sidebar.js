@@ -43,6 +43,10 @@ export const sidebar = [
         "link": "/Solution/2120B.md"
       },
       {
+        "text": "Problem 2118D1",
+        "link": "/Solution/2118D1.md"
+      },
+      {
         "text": "Problem 2118C",
         "link": "/Solution/2118C.md"
       },
@@ -103,6 +107,10 @@ export const sidebar = [
         "link": "/Solution/2094C.md"
       },
       {
+        "text": "Problem 2093D",
+        "link": "/Solution/2093D.md"
+      },
+      {
         "text": "Problem 2093C",
         "link": "/Solution/2093C.md"
       },
@@ -111,8 +119,16 @@ export const sidebar = [
         "link": "/Solution/2092A.md"
       },
       {
+        "text": "Problem 2091D",
+        "link": "/Solution/2091D.md"
+      },
+      {
         "text": "Problem 2091C",
         "link": "/Solution/2091C.md"
+      },
+      {
+        "text": "Problem 2071D1",
+        "link": "/Solution/2071D1.md"
       },
       {
         "text": "Problem 2069A",
@@ -191,6 +207,10 @@ export const sidebar = [
         "link": "/Solution/2025B.md"
       },
       {
+        "text": "Problem 2014F",
+        "link": "/Solution/2014F.md"
+      },
+      {
         "text": "Problem 2009C",
         "link": "/Solution/2009C.md"
       },
@@ -209,6 +229,10 @@ export const sidebar = [
       {
         "text": "Problem 1999A",
         "link": "/Solution/1999A.md"
+      },
+      {
+        "text": "Problem 1992D",
+        "link": "/Solution/1992D.md"
       },
       {
         "text": "Problem 1991C",
@@ -287,6 +311,10 @@ export const sidebar = [
         "link": "/Solution/1915F.md"
       },
       {
+        "text": "Problem 1914D",
+        "link": "/Solution/1914D.md"
+      },
+      {
         "text": "Problem 1913B",
         "link": "/Solution/1913B.md"
       },
@@ -297,6 +325,10 @@ export const sidebar = [
       {
         "text": "Problem 1909B",
         "link": "/Solution/1909B.md"
+      },
+      {
+        "text": "Problem 1907E",
+        "link": "/Solution/1907E.md"
       },
       {
         "text": "Problem 1907D",
@@ -455,8 +487,16 @@ export const sidebar = [
         "link": "/Solution/1797B.md"
       },
       {
+        "text": "Problem 1792D",
+        "link": "/Solution/1792D.md"
+      },
+      {
         "text": "Problem 1791G1",
         "link": "/Solution/1791G1.md"
+      },
+      {
+        "text": "Problem 1791E",
+        "link": "/Solution/1791E.md"
       },
       {
         "text": "Problem 1791D",
@@ -481,6 +521,10 @@ export const sidebar = [
       {
         "text": "Problem 1777A",
         "link": "/Solution/1777A.md"
+      },
+      {
+        "text": "Problem 1765M",
+        "link": "/Solution/1765M.md"
       },
       {
         "text": "Problem 1761A",
@@ -559,6 +603,10 @@ export const sidebar = [
         "link": "/Solution/1669H.md"
       },
       {
+        "text": "Problem 1669F",
+        "link": "/Solution/1669F.md"
+      },
+      {
         "text": "Problem 1669E",
         "link": "/Solution/1669E.md"
       },
@@ -633,6 +681,10 @@ export const sidebar = [
       {
         "text": "Problem 1472B",
         "link": "/Solution/1472B.md"
+      },
+      {
+        "text": "Problem 1466E",
+        "link": "/Solution/1466E.md"
       },
       {
         "text": "Problem 1459B",
@@ -711,6 +763,10 @@ export const sidebar = [
         "link": "/Solution/1328E.md"
       },
       {
+        "text": "Problem 1312D",
+        "link": "/Solution/1312D.md"
+      },
+      {
         "text": "Problem 1311F",
         "link": "/Solution/1311F.md"
       },
@@ -739,6 +795,10 @@ export const sidebar = [
         "link": "/Solution/1203C.md"
       },
       {
+        "text": "Problem 1165D",
+        "link": "/Solution/1165D.md"
+      },
+      {
         "text": "Problem 1151A",
         "link": "/Solution/1151A.md"
       },
@@ -761,6 +821,10 @@ export const sidebar = [
       {
         "text": "Problem 1095C",
         "link": "/Solution/1095C.md"
+      },
+      {
+        "text": "Problem 1092F",
+        "link": "/Solution/1092F.md"
       },
       {
         "text": "Problem 1047A",
