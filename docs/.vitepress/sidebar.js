@@ -87,6 +87,10 @@ export const sidebar = [
         "link": "/Solution/2106C.md"
       },
       {
+        "text": "Problem 2104D",
+        "link": "/Solution/2104D.md"
+      },
+      {
         "text": "Problem 2104A",
         "link": "/Solution/2104A.md"
       },
