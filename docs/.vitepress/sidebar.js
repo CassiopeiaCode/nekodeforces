@@ -99,6 +99,10 @@ export const sidebar = [
         "link": "/Solution/2112A.md"
       },
       {
+        "text": "Problem 2111F",
+        "link": "/Solution/2111F.md"
+      },
+      {
         "text": "Problem 2110A",
         "link": "/Solution/2110A.md"
       },
@@ -395,6 +399,10 @@ export const sidebar = [
         "link": "/Solution/1954D.md"
       },
       {
+        "text": "Problem 1950G",
+        "link": "/Solution/1950G.md"
+      },
+      {
         "text": "Problem 1950F",
         "link": "/Solution/1950F.md"
       },
@@ -533,6 +541,10 @@ export const sidebar = [
       {
         "text": "Problem 1882D",
         "link": "/Solution/1882D.md"
+      },
+      {
+        "text": "Problem 1881F",
+        "link": "/Solution/1881F.md"
       },
       {
         "text": "Problem 1881E",
