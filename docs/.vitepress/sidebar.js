@@ -131,6 +131,10 @@ export const sidebar = [
         "link": "/Solution/2106E.md"
       },
       {
+        "text": "Problem 2106D",
+        "link": "/Solution/2106D.md"
+      },
+      {
         "text": "Problem 2106C",
         "link": "/Solution/2106C.md"
       },
@@ -279,6 +283,10 @@ export const sidebar = [
         "link": "/Solution/2044E.md"
       },
       {
+        "text": "Problem 2044C",
+        "link": "/Solution/2044C.md"
+      },
+      {
         "text": "Problem 2044A",
         "link": "/Solution/2044A.md"
       },
@@ -349,6 +357,10 @@ export const sidebar = [
       {
         "text": "Problem 2009E",
         "link": "/Solution/2009E.md"
+      },
+      {
+        "text": "Problem 2009D",
+        "link": "/Solution/2009D.md"
       },
       {
         "text": "Problem 2009C",
@@ -491,6 +503,10 @@ export const sidebar = [
         "link": "/Solution/1950E.md"
       },
       {
+        "text": "Problem 1950C",
+        "link": "/Solution/1950C.md"
+      },
+      {
         "text": "Problem 1948A",
         "link": "/Solution/1948A.md"
       },
@@ -535,6 +551,10 @@ export const sidebar = [
         "link": "/Solution/1927D.md"
       },
       {
+        "text": "Problem 1919C",
+        "link": "/Solution/1919C.md"
+      },
+      {
         "text": "Problem 1917D",
         "link": "/Solution/1917D.md"
       },
@@ -561,6 +581,10 @@ export const sidebar = [
       {
         "text": "Problem 1914D",
         "link": "/Solution/1914D.md"
+      },
+      {
+        "text": "Problem 1914C",
+        "link": "/Solution/1914C.md"
       },
       {
         "text": "Problem 1913B",
@@ -999,6 +1023,10 @@ export const sidebar = [
         "link": "/Solution/1702D.md"
       },
       {
+        "text": "Problem 1701C",
+        "link": "/Solution/1701C.md"
+      },
+      {
         "text": "Problem 1692H",
         "link": "/Solution/1692H.md"
       },
@@ -1055,6 +1083,10 @@ export const sidebar = [
         "link": "/Solution/1673C.md"
       },
       {
+        "text": "Problem 1672F1",
+        "link": "/Solution/1672F1.md"
+      },
+      {
         "text": "Problem 1671E",
         "link": "/Solution/1671E.md"
       },
@@ -1095,6 +1127,10 @@ export const sidebar = [
         "link": "/Solution/1650A.md"
       },
       {
+        "text": "Problem 1646C",
+        "link": "/Solution/1646C.md"
+      },
+      {
         "text": "Problem 1638B",
         "link": "/Solution/1638B.md"
       },
@@ -1117,6 +1153,10 @@ export const sidebar = [
       {
         "text": "Problem 1611E2",
         "link": "/Solution/1611E2.md"
+      },
+      {
+        "text": "Problem 1610C",
+        "link": "/Solution/1610C.md"
       },
       {
         "text": "Problem 1609E",
@@ -1351,6 +1391,10 @@ export const sidebar = [
         "link": "/Solution/1352E.md"
       },
       {
+        "text": "Problem 1352C",
+        "link": "/Solution/1352C.md"
+      },
+      {
         "text": "Problem 1328E",
         "link": "/Solution/1328E.md"
       },
@@ -1455,6 +1499,10 @@ export const sidebar = [
         "link": "/Solution/1194F.md"
       },
       {
+        "text": "Problem 1183D",
+        "link": "/Solution/1183D.md"
+      },
+      {
         "text": "Problem 1176E",
         "link": "/Solution/1176E.md"
       },
@@ -1541,6 +1589,10 @@ export const sidebar = [
       {
         "text": "Problem 1047A",
         "link": "/Solution/1047A.md"
+      },
+      {
+        "text": "Problem 1037D",
+        "link": "/Solution/1037D.md"
       },
       {
         "text": "Problem 1036C",
@@ -1835,6 +1887,10 @@ export const sidebar = [
         "link": "/Solution/474A.md"
       },
       {
+        "text": "Problem 471D",
+        "link": "/Solution/471D.md"
+      },
+      {
         "text": "Problem 466C",
         "link": "/Solution/466C.md"
       },
@@ -2025,6 +2081,10 @@ export const sidebar = [
       {
         "text": "Problem 61E",
         "link": "/Solution/61E.md"
+      },
+      {
+        "text": "Problem 56E",
+        "link": "/Solution/56E.md"
       },
       {
         "text": "Problem 55D",
