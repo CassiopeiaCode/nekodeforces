@@ -5,10 +5,10 @@ import { sidebar } from './sidebar.js'
 export default defineConfig({
   title: "Moe's CF Life",
   description: "An AI-powered archive of competitive programming solutions.",
-  head: [['link', { rel: 'icon', href: '/logo.svg' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.svg' }]],
   
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/favicon.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
