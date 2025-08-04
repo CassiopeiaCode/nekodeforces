@@ -57,7 +57,7 @@ export default defineConfig({
     sidebar: sidebar,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Moe-hacker/code-forces-solution' }
+      { icon: 'github', link: 'https://github.com/CassiopeiaCode/nekodeforces' }
     ],
     
     footer: {
