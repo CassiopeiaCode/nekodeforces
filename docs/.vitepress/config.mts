@@ -51,7 +51,8 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '题解', link: '/Solution/' }, // VitePress will automatically resolve this to /Solution/index.md
-      { text: '关于', link: '/about-me' }
+      { text: '关于', link: '/about-me' },
+      { text: '随机阅读', link: '#start-random-read' }
     ],
 
     sidebar: sidebar,
