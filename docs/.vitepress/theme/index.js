@@ -13,6 +13,8 @@ export default {
     return h(DefaultTheme.Layout, null, {
       // 使用 'layout-bottom' 插槽将我们的组件注入到每个页面的底部
       'layout-bottom': () => h(RandomReadController),
+      // 在导航栏的末尾添加“开始随机阅读”按钮
+      'nav-bar-content-after': () => h(RandomReadButton),
     });
   },
   // 扩展 enhanceApp 上下文

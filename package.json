@@ -2,7 +2,6 @@
   "name": "moe-cf-life",
   "version": "1.0.0",
   "description": "An AI-powered archive of competitive programming solutions.",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
