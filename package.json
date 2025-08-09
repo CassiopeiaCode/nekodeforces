@@ -1,15 +1,19 @@
 {
-  "type": "module",
-  "description": "",
-  "devDependencies": {
-    "@mdit/plugin-katex": "^0.23.1",
-    "katex": "^0.16.22",
-    "markdown-it": "^14.1.0",
-    "vitepress": "^1.6.3"
-  },
+  "name": "moe-cf-life",
+  "version": "1.0.0",
+  "description": "An AI-powered archive of competitive programming solutions.",
+  "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev ./docs",
-    "docs:build": "vitepress build ./docs",
-    "docs:preview": "vitepress preview ./docs"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@mdit/plugin-katex": "^0.12.0",
+    "vitepress": "^1.2.3",
+    "vue": "^3.4.27"
   }
 }
