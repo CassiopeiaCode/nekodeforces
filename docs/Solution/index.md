@@ -1,3 +1,5 @@
+&lt;RandomReadButton /&gt;
+
 # 题解列表
 
 欢迎来到题解中心！
